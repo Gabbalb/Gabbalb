@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabbalb
-- 👀 I’m interested in Bible, God, Gym, Friends and Discipline
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in God, Gym, Friends and Discipline
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on somethig that can challenge me... i'm just a student
 - 📫 How to reach me balbiani.gabriele@gmail.com
 
